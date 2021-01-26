@@ -1,0 +1,12 @@
+model: 'sbcnn'
+frames: 72
+conv_block: 'conv'
+conv_size: '5x5'
+downsample_size: '3x2'
+filters: 24
+n_stages: 3
+use_strides: false
+n_blocks_per_stage: 1
+dropout: 0.5
+normalize: 'meanstd'
+fully_connected: 64

@@ -1,0 +1,10 @@
+model: 'ldcnn'
+frames: 72
+n_stages: 2
+n_blocks_per_stage: 1
+normalize: 'meanstd'
+L: 29
+W: 6
+fully_connected: 5000
+dropout: 0.25
+filters: 80

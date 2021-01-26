@@ -1,0 +1,11 @@
+model: 'strided'
+frames: 72
+conv_block: 'conv'
+conv_size: '5x5'
+downsample_size: '2x2'
+filters: 24
+n_stages: 2
+n_blocks_per_stage: 1
+dropout: 0.5
+normalize: 'meanstd'
+fully_connected: 64

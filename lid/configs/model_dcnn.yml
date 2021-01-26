@@ -1,0 +1,6 @@
+model: 'dcnn'
+frames: 31
+normalize: 'meanstd'
+fully_connected: 5000
+dropout: 0.25
+filters: 80

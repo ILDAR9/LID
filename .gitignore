@@ -1,0 +1,16 @@
+*.pyc
+.ipynb_checkpoints/
+*.npy
+*.npz
+*.mp3
+*.wav
+/other/
+/models/
+/env/
+/.idea/
+notes.txt
+
+.DS_Store
+**/__pycache__/
+*.egg-info/
+.cache/

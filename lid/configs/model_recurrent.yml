@@ -1,0 +1,5 @@
+model: 'recurrent'
+frames: 72
+normalize: 'meanstd'
+fully_connected: 100
+dropout: 0.25

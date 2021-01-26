@@ -1,0 +1,6 @@
+frame_vad_duration: 30 # ms
+sample_rate: 16000
+noise_reduction: true
+minimum_diff: 120 # ms
+preprocessed_out: 'preprocess'
+vad_level: 3

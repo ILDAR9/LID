@@ -1,0 +1,11 @@
+epochs: 50
+batch: 50
+augment: true
+learning_rate: 0.01
+nesterov_momentum: 0.9
+model_conf: 'model_sbcnn.yml'
+train_part: 0.73
+voting_test_count: 50
+voting: 'mean'
+voting_overlap: 0.2
+voted_seconds: 5

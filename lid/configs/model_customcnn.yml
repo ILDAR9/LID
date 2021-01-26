@@ -1,0 +1,3 @@
+model: 'customcnn'
+frames: 72
+normalize: 'meanstd'
